@@ -13,8 +13,7 @@
 - **Модуль 02** 
   - **Введение в машинное обучение**:    Решение задачи бинарной классификации с использованием DecissionTreeClassifier, RandomForestClassifier и LogisticRegression - Project_6
   - **Обучение с учителем**: Решение задачи бинарной классификации с использованием DecissionTreeClassifier, RandomForestClassifier и LogisticRegression с кросс-валидацией  - Project_7
-  - **Машинное обучение в бизнесе**: Задача регрессии + Bootstrap
- - Project_8
+  - **Машинное обучение в бизнесе**: Задача регрессии + Bootstrap - Project_8
   - **Сборный проект 2**: Предобработка+анализ+обучение регрессионой модели с СV** - Project_9
 
 - **Модуль 03** 
